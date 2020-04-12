@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Custom</string>
+    <string name="Gallery">Bộ sưu tập</string>
+    <string name="AllPhotos">Tất cả ảnh</string>
+    <string name="AllMedia">Tất cả phương tiện</string>
+    <string name="AllVideos">Tất cả video</string>
+    <string name="NoPhotos">Chưa có ảnh</string>
+    <string name="AttachVideo">Video</string>
+    <string name="AttachPhotoExpired">Ảnh đã hết hạn</string>
+    <string name="AttachVideoExpired">Video đã hết hạn</string>
+    <string name="AttachGif">GIF</string>
+    <string name="AttachLocation">Vị trí</string>
+    <string name="AttachLiveLocation">Vị trí trực tuyến</string>
+    <string name="AttachContact">Contact</string>
+    <string name="AttachDocument">Tệp tin</string>
+    <string name="AttachSticker">Sticker</string>
+    <string name="AttachAudio">Tin nhắn thoại</string>
+    <string name="AttachRound">Tin nhắn hình</string>
+    <string name="AttachGame">Game</string>
+    <string name="AttachPhoto">Ảnh</string>
+    <string name="Open">Open</string>
+</resources>
